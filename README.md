@@ -80,11 +80,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rajeevsingh3108&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rajeevsingh3108/count.svg?" />
-</div>
-
-###
