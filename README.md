@@ -35,7 +35,7 @@
 
 <p align="left">
   I'm from India<br><br>
-  - 🔭 I’m currently working on GazeGuard<br>
+  - 🔭 I’m currently working on GazeGuard Project<br>
   - 📚 I’m currently learning Gen AI<br>
   - 👨‍💻 All of my projects are available at https://rajeev-singh.vercel.app/<br>
   - 📫 How to reach me: singhrajeev2531@gmail.com
